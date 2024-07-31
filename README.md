@@ -6,7 +6,7 @@ The code is based on https://github.com/mroberto166/PinnsSub (~ commit [338c540]
 
 ## **Data Availability**
 
-Trained models and necessary data are available at https://zenodo.org/records/10727498.
+Trained models and necessary data are available at https://zenodo.org/doi/10.5281/zenodo.10727497.
 
 ## **Run the Code**
 
