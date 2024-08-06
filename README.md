@@ -1,6 +1,6 @@
 # **Approximate Atmospheric Scattering using PINNs** 
 
-Code for the paper Dahlbüdding et al. (in prep).
+Code for the paper [Dahlbüdding et al. (2024)](https://arxiv.org/abs/2408.00084).
 
 The code is based on https://github.com/mroberto166/PinnsSub (~ commit [338c540](https://github.com/mroberto166/PinnsSub/tree/338c5400080ba570fd8f53d7481539225fcf4d17)) from the paper by [Mishra & Molinario (2021)](https://arxiv.org/abs/2009.13291).
 
